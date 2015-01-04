@@ -1,3 +1,3 @@
-Eloquent JavaScript Exercises
+Eloquent JavaScript Æfingar
 
 http://eloquentjavascript.net/
